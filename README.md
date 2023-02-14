@@ -19,7 +19,8 @@ This word counter tool was built using the following technologies:
 HTML
 CSS
 JavaScript
-Author
+
+# Author
 This word counter tool was created by Ankit.
 
 
